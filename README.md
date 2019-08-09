@@ -1,5 +1,5 @@
-# pocayoca.github.com
+# pocayoca.com
 
-Holding page for my dormant company. CNAME'd to pocayoca.com
+Holding page for my dormant company.
 
 -- [Barry Frost](http://barryfrost.com)
